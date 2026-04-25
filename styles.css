@@ -1,0 +1,43 @@
+body {
+    background-color: #f5efea;
+    color: #2a2a2a;
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+}
+
+h1, h2 {
+    color: #5c4033;
+    font-family: 'Arial', sans-serif;
+}
+
+a {
+    color: #5c4033;
+
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    height: 400px;
+}
+
+.ingredients-list {
+    list-style-type: square;
+}
+
+table {
+    width: 100%;
+    border: 2px solid #4b3429;
+}
+
+th, td {
+    border: 1px solid #5c4033;
+    text-align: center;
+}
+
