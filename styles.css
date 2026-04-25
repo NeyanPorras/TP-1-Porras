@@ -1,44 +1,51 @@
 body {
-    background-color: #f5efea;
-    color: #2a2a2a;
-    font-family: 'Georgia', serif;
-    font-size: 18px;
+  background-color: #f5efea;
+  color: #2a2a2a;
+  font-family: 'Georgia', serif;
+  font-size: 18px;
 }
 
-h1, h2 {
-    color: #5c4033;
-    font-family: 'Arial', sans-serif;
+h1,
+h2 {
+  color: #5c4033;
+  font-family: 'Arial', sans-serif;
 }
 
 a {
-    color: #5c4033;
-
+  color: #5c4033;
 }
 
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 ul {
-    list-style-type: none;
+  list-style-type: none;
+  font-size: 20px;
 }
 
 img {
-    height: 400px;
+  height: 400px;
 }
 
 .ingredients-list {
-    list-style-type: square;
+  list-style-type: square;
 }
 
 table {
-    background-color: #5c403310;
-    width: 80%;
-    border: 2px solid #4b3429;
+  background-color: #5c403310;
+  width: 80%;
+  height: 60vh;
+  border: 2px solid #4b3429;
 }
 
-th, td {
-    border: 1px solid #5c4033;
-    text-align: center;
+th,
+td {
+  border: 1px solid #5c4033;
+  text-align: center;
 }
 
+.home-link {
+  text-decoration: none;
+  color: #5c4033;
+}
