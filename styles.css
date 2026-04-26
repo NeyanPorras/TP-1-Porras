@@ -53,3 +53,15 @@ td {
 .icons {
   font-size: 24px;
 }
+
+img {
+  width: 600px;
+}
+
+footer, header {
+  text-align: center;
+}
+
+nav {
+  text-align: left;
+}
